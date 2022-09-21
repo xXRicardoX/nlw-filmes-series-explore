@@ -10,9 +10,9 @@ Projeto proposto no evento da Rockeseat da semana NLW .
 
 
 ## 🛠️ Tecnologias
--HTML
--CSS
--Git e Github
+- HTML
+- CSS
+- Git e Github
 
 
 ## Aprendizado
