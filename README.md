@@ -16,4 +16,4 @@ Projeto proposto no evento da Rockeseat da semana NLW .
 
 
 ## Aprendizado
- O projeto teve como objetivo aplicar o conhecimento que foi passado no NLW-eSport, que passou os comandos do Git e Github, aplicações em HTMLS e CSS
+ - O projeto teve como objetivo aplicar o conhecimento que foi passado no NLW-eSport, que passou os comandos do Git e Github, aplicações em HTMLS e CSS
